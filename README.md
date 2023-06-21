@@ -16,7 +16,9 @@ Este é um pequeno catálogo dos filmes mais populares no estilo Stop Motion,</b
 - CSS
 - GIPHY
 
-Este é um projeto simples que desenvolvi com muito carinho baseado em um tema que gosto, como método de fixação no processo de aprendizagem em <strong>HTML</strong> e <strong>CSS</strong>.
+## Projeto
+
+- Este é um projeto simples que desenvolvi com muito carinho baseado em um tema que gosto, como método de fixação no processo de aprendizagem em <strong>HTML</strong> e <strong>CSS</strong>.
 
 </br>
 Espero que as indicações sejam tão divertidas para você como foram para mim🖤
